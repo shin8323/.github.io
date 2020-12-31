@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shin8323.github.io</id>
     <title>嘿网管--Hey Administrator</title>
-    <updated>2020-12-31T08:01:51.091Z</updated>
+    <updated>2020-12-31T08:35:27.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shin8323.github.io"/>
     <link rel="self" href="https://shin8323.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://shin8323.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 嘿网管--Hey Administrator</rights>
     <entry>
-        <title type="html"><![CDATA[2020年踩过的Type-c扩展坞的坑]]></title>
+        <title type="html"><![CDATA[2020年Type-c扩展坞踩过的坑]]></title>
         <id>https://shin8323.github.io/post/2020-nian-cai-guo-de-type-c-kuo-zhan-wu-de-keng/</id>
         <link href="https://shin8323.github.io/post/2020-nian-cai-guo-de-type-c-kuo-zhan-wu-de-keng/">
         </link>
